@@ -49,7 +49,7 @@
 // filterArray([12, 24, 8, 41, 76], 20);
 
 //*-----------------------------------------------------------
-//?--------------------numbers filter-------------------------
+//?-----------------------------------------------------------
 
 // const changeEven = (numbers, value) => {
 //   const newArray = [];
@@ -160,4 +160,13 @@
 // const getUserEmails = (users) => {
 //   const mails = getUserEmails.map((mail) => mail.email);
 //   return mails;
+// };
+// const calculateTotalPrice = (orderedItems) => {
+//   let totalPrice = 0;
+
+//   orderedItems.forEach((item) => {
+//     totalPrice += item;
+//   });
+
+//   return totalPrice;
 // };
